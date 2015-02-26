@@ -1,5 +1,5 @@
 #!/bin/sh
-if [ -e README.md ]
+if [ -e /opt/atlassian/application-data/bamboo/xml-data/build-dir/XPJ1-XPL1-JOB1/xpj2/README.md ]
 then
 echo "file is there, all good!"
 else
